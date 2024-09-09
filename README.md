@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Touhid AT
 - 👀 I’m interested in Development 
 - 🌱 I’m currently learning React js and Mongo DB
-- 💞️ I’m looking for Internship in Web Dev
+- 💞️ I’m looking for Software Development Role
 - 📫 Reach me On LinkedIn ( https://www.linkedin.com/in/touhid-tamboli-b7a357248/ )
 
 <!---
